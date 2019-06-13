@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/project-management-reduxfirebase/precache-manifest.f7dfabf2f40ef72e60405938e4eb54b7.js"
+  "/project-management-reduxfirebase/precache-manifest.2633c661103bb7d34d7590b286ae9a4f.js"
 );
 
 workbox.clientsClaim();

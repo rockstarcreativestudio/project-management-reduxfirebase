@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.8eea8481.chunk.css",
-  "main.js": "/static/js/main.5b95715c.chunk.js",
-  "main.js.map": "/static/js/main.5b95715c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.d06ea239.chunk.js": "/static/js/2.d06ea239.chunk.js",
-  "static/js/2.d06ea239.chunk.js.map": "/static/js/2.d06ea239.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.8a9abd3a7d2ca8f5bb73bb800daadff8.js": "/precache-manifest.8a9abd3a7d2ca8f5bb73bb800daadff8.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.8eea8481.chunk.css.map": "/static/css/main.8eea8481.chunk.css.map"
+  "main.css": "/project-management-reduxfirebase/static/css/main.8eea8481.chunk.css",
+  "main.js": "/project-management-reduxfirebase/static/js/main.98502b11.chunk.js",
+  "main.js.map": "/project-management-reduxfirebase/static/js/main.98502b11.chunk.js.map",
+  "runtime~main.js": "/project-management-reduxfirebase/static/js/runtime~main.59871721.js",
+  "runtime~main.js.map": "/project-management-reduxfirebase/static/js/runtime~main.59871721.js.map",
+  "static/js/2.40675854.chunk.js": "/project-management-reduxfirebase/static/js/2.40675854.chunk.js",
+  "static/js/2.40675854.chunk.js.map": "/project-management-reduxfirebase/static/js/2.40675854.chunk.js.map",
+  "index.html": "/project-management-reduxfirebase/index.html",
+  "precache-manifest.41a2afb3f38f169bc9b712c0d8d58f17.js": "/project-management-reduxfirebase/precache-manifest.41a2afb3f38f169bc9b712c0d8d58f17.js",
+  "service-worker.js": "/project-management-reduxfirebase/service-worker.js",
+  "static/css/main.8eea8481.chunk.css.map": "/project-management-reduxfirebase/static/css/main.8eea8481.chunk.css.map"
 }

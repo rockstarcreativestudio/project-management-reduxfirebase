@@ -8,7 +8,7 @@ body {
   font-family: "Oxygen", "Ubuntu", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(/img/app-bg.jpg) no-repeat;
+  background: url(%PUBLIC_URL%/img/app-bg.jpg) no-repeat;
   background-size: cover;
   background-position: bottom;
   background-color: #dd95f3;

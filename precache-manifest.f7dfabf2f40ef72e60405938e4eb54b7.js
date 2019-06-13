@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/project-management-reduxfirebase/static/js/runtime~main.59871721.js"
   },
   {
-    "revision": "2c65dd945d2e70624908",
+    "revision": "beda6e64d53847b9d7e3",
     "url": "/project-management-reduxfirebase/static/js/main.98502b11.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/project-management-reduxfirebase/static/js/2.40675854.chunk.js"
   },
   {
-    "revision": "2c65dd945d2e70624908",
-    "url": "/project-management-reduxfirebase/static/css/main.8eea8481.chunk.css"
+    "revision": "beda6e64d53847b9d7e3",
+    "url": "/project-management-reduxfirebase/static/css/main.ba7ae74e.chunk.css"
   },
   {
-    "revision": "58a2885c2ada22cb5a94d006f5e7412c",
+    "revision": "8ef1cb1282ce5802d445bdddad1c3f3e",
     "url": "/project-management-reduxfirebase/index.html"
   }
 ];
